@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakewoodcohvac.com/sitemap.xml
